@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imesh7)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imesh7)](https://github.com/Imesh7)
 
 
 
