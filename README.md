@@ -10,7 +10,7 @@
 
 ## Contact Me
 
-Email : 2020imeshmadushanka@gmail.com
+<p>Email :<a href="mailto:2020imeshmadushanka@gmail.com"> 2020imeshmadushanka@gmail.com</a></p>
 Linkedin : https://www.linkedin.com/in/imesh-madusanka/
 
 <h3 align="left">Languages and Tools:</h3>
