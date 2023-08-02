@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 <p>Hello there! I'm Imesh Madusanka</p>
 
-
+<!---
 ## About Me
 <p>for day time I am building software for company</p>
 <p>I'm a passionate Mobile Application developer with a strong focus on <code>Android</code> , <code>ios</code> & <code>backend</code>  development and a deep love for <a href="https://flutter.dev">Flutter</a> framework. I find immense joy in collaborating with the open-source community, sharing my knowledge, and contributing to projects that push the boundaries of Android, Flutter, and backend development. Let's connect and together, let's create amazing experiences that transform the way people interact with technology!
@@ -24,7 +24,7 @@ Linkedin : https://www.linkedin.com/in/imesh-madusanka/
 * Go
 * Swift
 
-
+-->
 
 
 <h3 align="left">Languages and Tools:</h3>
