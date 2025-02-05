@@ -15,13 +15,14 @@ Linkedin : https://www.linkedin.com/in/imesh-madusanka/
 
 
 ## Technologies, Languages & Frameworks
+* Go
+* Rust
 * Flutter
 * Android
 * Kolin
 * Java
 * Spring boot
 * Javascript
-* Go
 * Swift
 
 -->
