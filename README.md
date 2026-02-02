@@ -27,6 +27,9 @@ Linkedin : https://www.linkedin.com/in/imesh-madusanka/
 
 -->
 
+### Go projects
+- Trading system [Repo](https://github.com/Imesh7/trading-system)
+- Uber clone [Repo](https://github.com/Imesh7/uber-microservice-go)
 
 ### AI projects
 
