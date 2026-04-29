@@ -33,6 +33,7 @@ Linkedin : https://www.linkedin.com/in/imesh-madusanka/
 
 ### AI projects
 
+- Sinhala TTS model [Repo](https://github.com/Imesh7/sinhala-tts)
 - Stable diffusion project [Repo](https://github.com/Imesh7/stable_diffusion)
 - ACE-STEP paper implementation [Repo](https://github.com/Imesh7/ace-step)
 - GPT clone [Repo](https://github.com/Imesh7/gpt_clone)
