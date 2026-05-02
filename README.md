@@ -27,17 +27,29 @@ Linkedin : https://www.linkedin.com/in/imesh-madusanka/
 
 -->
 
+
+### AI projects
+
+- Stable diffusion project [Repo](https://github.com/Imesh7/stable_diffusion)
+- GPT clone [Repo](https://github.com/Imesh7/gpt_clone)
+- Recommendation system [Repo](https://github.com/Imesh7/recommendation-system)
+
+
+### Paper Implementaions
+
+- Sinhala TTS model (Zipvoice) [Repo](https://github.com/Imesh7/sinhala-tts)
+- ACE-STEP paper implementation [Repo](https://github.com/Imesh7/ace-step)
+- Minimax-speech [Repo](https://github.com/Imesh7/minimax-speech)
+
+
 ### Go projects
 - Trading system [Repo](https://github.com/Imesh7/trading-system)
 - Uber clone [Repo](https://github.com/Imesh7/uber-microservice-go)
 
-### AI projects
-
-- Sinhala TTS model [Repo](https://github.com/Imesh7/sinhala-tts)
-- Stable diffusion project [Repo](https://github.com/Imesh7/stable_diffusion)
-- ACE-STEP paper implementation [Repo](https://github.com/Imesh7/ace-step)
-- GPT clone [Repo](https://github.com/Imesh7/gpt_clone)
-- Recommendation system [Repo](https://github.com/Imesh7/recommendation-system)
+### Mobile Application Projects
+- Pin input biometric authenticator [pub.dev](https://pub.dev/packages/pin_input_biometric_authenticator)
+- Tour app [Repo](https://github.com/Imesh7/Tour-App)
+- Weather app [Repo](https://github.com/Imesh7/weather-app-react-native) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
