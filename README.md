@@ -28,18 +28,18 @@ Linkedin : https://www.linkedin.com/in/imesh-madusanka/
 -->
 
 
-### AI projects
-
-- Stable diffusion project [Repo](https://github.com/Imesh7/stable_diffusion)
-- GPT clone [Repo](https://github.com/Imesh7/gpt_clone)
-- Recommendation system [Repo](https://github.com/Imesh7/recommendation-system)
-
-
 ### Paper Implementaions
 
 - Sinhala TTS model (Zipvoice) [Repo](https://github.com/Imesh7/sinhala-tts)
 - ACE-STEP paper implementation [Repo](https://github.com/Imesh7/ace-step)
 - Minimax-speech [Repo](https://github.com/Imesh7/minimax-speech)
+
+
+### AI projects
+
+- Stable diffusion project [Repo](https://github.com/Imesh7/stable_diffusion)
+- GPT clone [Repo](https://github.com/Imesh7/gpt_clone)
+- Recommendation system [Repo](https://github.com/Imesh7/recommendation-system)
 
 
 ### Go projects
