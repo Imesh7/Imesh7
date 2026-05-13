@@ -31,8 +31,9 @@ Linkedin : https://www.linkedin.com/in/imesh-madusanka/
 ### Paper Implementaions
 
 - Sinhala TTS model (Zipvoice) [Repo](https://github.com/Imesh7/sinhala-tts)
-- ACE-STEP paper implementation [Repo](https://github.com/Imesh7/ace-step)
+- ACE-STEP v1 paper implementation [Repo](https://github.com/Imesh7/ace-step)
 - Minimax-speech [Repo](https://github.com/Imesh7/minimax-speech)
+- Voost-VTON [Repo](https://github.com/Imesh7/voost-vton)
 
 
 ### AI projects
