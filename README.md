@@ -34,6 +34,7 @@ Linkedin : https://www.linkedin.com/in/imesh-madusanka/
 - ACE-STEP v1 paper implementation [Repo](https://github.com/Imesh7/ace-step)
 - Minimax-speech [Repo](https://github.com/Imesh7/minimax-speech)
 - Voost-VTON [Repo](https://github.com/Imesh7/voost-vton)
+- Whisper - Speech-to-Text [Repo](https://github.com/Imesh7/speech-to-text/)
 
 
 ### AI projects
