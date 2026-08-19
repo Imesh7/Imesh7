@@ -1,6 +1,12 @@
 # Welcome to my GitHub profile!
 <p>Hello there! I'm Imesh Madusanka</p>
 
+Interested in Machine learning, deep learning, Natural Languague procesing, Diffusion & deep re-inforcement learning.
+Collaborations are welcome...
+
+
+<p>Email :<a href="mailto:2020imeshmadushanka@gmail.com"> 2020imeshmadushanka@gmail.com</a></p>
+Linkedin : https://www.linkedin.com/in/imesh-madusanka/
 <!---
 ## About Me
 <p>for day time I am building software for company</p>
@@ -10,8 +16,7 @@
 
 ## Contact Me
 
-<p>Email :<a href="mailto:2020imeshmadushanka@gmail.com"> 2020imeshmadushanka@gmail.com</a></p>
-Linkedin : https://www.linkedin.com/in/imesh-madusanka/
+
 
 
 ## Technologies, Languages & Frameworks
@@ -52,34 +57,3 @@ Linkedin : https://www.linkedin.com/in/imesh-madusanka/
 - Pin input biometric authenticator [pub.dev](https://pub.dev/packages/pin_input_biometric_authenticator)
 - Tour app [Repo](https://github.com/Imesh7/Tour-App)
 - Weather app [Repo](https://github.com/Imesh7/weather-app-react-native) 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-</p>
-
-</p>
-
-## Tech I work with
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
-
-
-<br />
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-<br />
